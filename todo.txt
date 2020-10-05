@@ -1,4 +1,5 @@
 1. Suggest branch workflow to C&C
 2. Demo it
-3. Use it
-4. Verify it works
+3. Issues? Concerns?
+4.  Use it
+5. Verify it works
